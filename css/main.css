@@ -1,0 +1,39 @@
+/** {
+    outline: solid 1px red;
+}*/
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #2d3c49;
+}
+
+.title-content {
+    margin-top: 1%;
+}
+
+/*.devider {
+    border: 1px solid #7d97ad;
+    margin: 2% 0px;
+}
+*/
+.img-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-mute {
+    color: #7d97ad;
+}
+
+.text-thin {
+    font-weight: 100;
+}
