@@ -6,12 +6,22 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #2d3c49;
+    font-size: calc(0.75em + 1vmin);
+}
+
+h1{
+    font-size: calc(2em + 1vmin);
+}
+h2{
+    font-size: calc(1.5em + 1vmin);
+}
+h3{
+    font-size: calc(1em + 1vmin);
 }
 
 .title-content {
     margin-top: 1%;
 }
-
 /*.devider {
     border: 1px solid #7d97ad;
     margin: 2% 0px;
