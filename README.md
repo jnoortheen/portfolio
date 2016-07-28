@@ -1,3 +1,3 @@
 # portfolio
 ===========
-Not so another responsive online portfolio to show off front end tech skills.
+Responsive portfolio using bootstrap framwork with modern standards.
